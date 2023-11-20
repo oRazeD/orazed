@@ -1,6 +1,6 @@
-### Hi there, welcome to my GitHub page 👋
-#### Name's Ethan, I'm a Technical & 3D Hardsurface Artist specializing in the creation Blender add-ons and pipeline tools.
+### Hi there, welcome 👋
+#### Hey, name's Ethan. I'm a Tools Programmer & 3D Hardsurface Artist specializing in the creation Blender add-ons and production pipeline tools.
 
-I work mostly in 🐍 Python for personal projects and at work. A majority of my professional work is private but I'm happy to share code samples at request! You can view my regular artwork on [ArtStation](https://www.artstation.com/razed).
+I frequently work in 🐍 Python for personal projects and at work. A majority of my professional work is private but I'm more than happy to supply code samples at request! You can also view my 3D work on [ArtStation](https://www.artstation.com/razed).
 
-To support me consider purchasing my blender add-ons on [Gumroad](https://razed.gumroad.com/) or [Blender Market](https://blendermarket.com/creators/ethan-simon-law) and maybe leave a review :)
+To support me consider purchasing my blender add-ons on [Gumroad](https://razed.gumroad.com/) or even [Blender Market](https://blendermarket.com/creators/ethan-simon-law) and maybe leave a positive review :)
