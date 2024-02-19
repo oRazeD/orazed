@@ -1,5 +1,5 @@
 ### Hi there, welcome 👋
-#### Hey, name's Ethan. I'm a Tools Programmer & 3D Hardsurface Artist specializing in the creating production pipeline tools.
+#### Hey, name's Ethan. I'm a Tools Programmer & 3D Hardsurface Artist specializing in the creation of production pipeline tools.
 
 I frequently work in 🐍 Python for personal projects and at work. A majority of my professional work is private but I'm more than happy to supply code samples at request! You can also view my 3D work on [ArtStation](https://www.artstation.com/razed).
 
